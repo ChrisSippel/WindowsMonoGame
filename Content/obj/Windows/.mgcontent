@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SourceFileCollection xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Profile>Reach</Profile>
+  <Platform>Windows</Platform>
+  <Config />
+  <SourceFiles>
+    <File>C:/Users/Chris/Documents/Visual Studio 2015/Projects/WindowsMonoGame/WindowsMonoGame/Content/Ethan/Movement/EthanWalkingDownSpriteSheet.png</File>
+    <File>C:/Users/Chris/Documents/Visual Studio 2015/Projects/WindowsMonoGame/WindowsMonoGame/Content/Ethan/Movement/EthanWalkingLeftSpriteSheet.png</File>
+    <File>C:/Users/Chris/Documents/Visual Studio 2015/Projects/WindowsMonoGame/WindowsMonoGame/Content/Ethan/Movement/EthanWalkingRightSpriteSheet.png</File>
+    <File>C:/Users/Chris/Documents/Visual Studio 2015/Projects/WindowsMonoGame/WindowsMonoGame/Content/Ethan/Movement/EthanWalkingUpSpriteSheet.png</File>
+    <File>C:/Users/Chris/Documents/Visual Studio 2015/Projects/WindowsMonoGame/WindowsMonoGame/Content/ButtonFont.spritefont</File>
+  </SourceFiles>
+</SourceFileCollection>
