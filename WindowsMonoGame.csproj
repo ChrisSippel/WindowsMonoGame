@@ -69,15 +69,15 @@
     <MonoGameContentReference Include="Content\Content.mgcb" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\..\MonoAnimation\MonoAnimation\MonoAnimation.csproj">
+    <ProjectReference Include="..\MonoAnimation\MonoAnimation.csproj">
       <Project>{b448942b-1c2d-4603-8546-821fb9f4b6eb}</Project>
       <Name>MonoAnimation</Name>
     </ProjectReference>
-    <ProjectReference Include="..\..\MonoCharacter\MonoCharacter\MonoCharacter.csproj">
+    <ProjectReference Include="..\MonoCharacter\MonoCharacter.csproj">
       <Project>{b9e63d9d-49a0-42bb-a663-abdd9a43017c}</Project>
       <Name>MonoCharacter</Name>
     </ProjectReference>
-    <ProjectReference Include="..\..\MonoUi\MonoUi\MonoUi.csproj">
+    <ProjectReference Include="..\MonoUi\MonoUi.csproj">
       <Project>{2ece22f4-bfbb-4ad2-993b-5c96b4a4a492}</Project>
       <Name>MonoUi</Name>
     </ProjectReference>
